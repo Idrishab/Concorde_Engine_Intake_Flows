@@ -1,5 +1,7 @@
-"This"
-"""This is valid up til 30,000 meters above sea level"""
+""" 
+This script is used to estimate the atmospheric properties from sea level
+up to an altitude of 30,000 meters  above sea level
+"""
 import numpy as np
 class Atmosphere:
 
